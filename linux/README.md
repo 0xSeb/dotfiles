@@ -1,7 +1,7 @@
 # Linux dotfiles
 
 
-# Gesture: touchpad like MACOS
+## Gesture: touchpad like MACOS
 https://kaigo.medium.com/mac-like-gestures-on-ubuntu-20-04-dell-xps-15-7ea6e3be7f76
 
 Config file: 
@@ -10,4 +10,10 @@ cp libinput-gestures.conf ~/.config/
 ```
 
 Firefox install https://addons.mozilla.org/en-US/firefox/addon/two-finger-history-jump
+___
+## Terminal 
+https://sw.kovidgoyal.net/kitty/
 
+TODO: add the config file to the dotfiles
+
+Shell
